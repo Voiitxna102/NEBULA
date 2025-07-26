@@ -3,17 +3,17 @@ module.exports = {
     bot: {
 
         // bot numebr
-        phoneNumber: "", // add ur bot numebr
+        phoneNumber: "27661021575", // add ur bot numebr
 
         // extra
-        co: [""], // add co owner
+        co: ["george shelby"], // add co owner
         usePairingCode: true, // true uses pair false no
         antiCall: true, // true uses pair false no
         useCoin: false, // true uses pair false no
 
         // custom 
-        name: "coderxsa", // custom owner name
-        id: "2799999999" // owner numebr
+        name: "voiitxna", // custom owner name
+        id: "27661021575" // owner numebr
     },
 };
 
